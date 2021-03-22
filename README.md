@@ -1,0 +1,2 @@
+# easybank
+easybank frontend challenge
