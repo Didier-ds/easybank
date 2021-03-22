@@ -6,7 +6,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 ## Links
 
 - Solution URL: (https://your-solution-url.com)
-- Solution Site URL: (https://easy-bank.surge.sh)
+- Solution Site URL: (https://didier-ds.github.io/easybank/)
 - Live Site URL: (https://easy-bank.surge.sh)
 
 ### screenshots
